@@ -11,3 +11,4 @@
    Customer Behavior: Analyze trends in retail vs. commercial purchases.
    Discount Insights: Measure the effect of discounts on sales.
    Channel Performance: Compare success across direct, dealership, and online channels.
+![image](https://github.com/user-attachments/assets/ff44a0a9-dc3e-4dc1-813d-10ffba3b7185)
